@@ -8,6 +8,7 @@
 # DeepImageJ
 
 ### The ImageJ plugin to run deep-learning models
+#Chen Edits
 
 DeepImageJ is a user-friendly plugin that enables the use of a variety of pre-trained deep learning models in ImageJ. The plugin bridges the gap between deep learning and standard life-science applications. DeepImageJ runs image-to-image operations on a standard CPU-based computer or on a GPU, and does not require any deep learning expertise.
 
